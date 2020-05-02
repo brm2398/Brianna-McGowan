@@ -195,6 +195,33 @@ p {
 	font-weight:100;
 	line-height: 28px!important;
 }
+/*======== manifesto style========= */
+p2 {
+	font-size: 16px;
+	font-weight:100;
+	line-height: 28px!important;
+	color: white;
+}
+p3 {
+	font-size: 16px;
+	font-weight:100;
+	line-height: 28px!important;
+	color: black;
+}
+div.c {
+    text-indent: 50px;
+    font-size: 16px;
+	font-weight:100;
+	line-height: 28px!important;
+	color: black;
+}
+div.cc {
+    text-indent: 100px;
+    font-size: 16px;
+	font-weight:100;
+	line-height: 28px!important;
+	color: black;
+}
 /* ==========================================================================Lists========================================================================== */
 dl,menu,ol,ul {
 	margin:1em 0;
