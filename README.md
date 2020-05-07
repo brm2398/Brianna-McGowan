@@ -11,6 +11,15 @@ Delicious Democracy is gathering every second Tuesday of the month in 2020 to ex
 EQUITISM:
 An economic and political system grounded in community ownership, systemic balance, and infinite play. Equity means having a seat at the table and a stake in governance, accountability, and collective prosperity. 
 
+Equitism Manifesto: https://codetomove.com/manifesto.html
+Equitism is an economic and political system grounded in community ownership, balancing systemic tensions, infinite play, and intersecting worlds.
+
+Book 1: MYCELIUM
+(Foundational Network)
+
+Book 2: MUSHROOMS
+(Fruiting Bodies)
+
 
 
 Brianna R. McGowan
